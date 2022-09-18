@@ -1,0 +1,9 @@
+.resources__link {
+  display: inline-block;
+  text-align: center;
+  transition: background-color 1.4s ease-in-out;
+}
+
+.resources__link:hover {
+  background-color: rgba(31, 31, 31, 1);
+}

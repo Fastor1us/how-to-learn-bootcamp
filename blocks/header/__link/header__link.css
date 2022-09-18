@@ -1,0 +1,11 @@
+.header__link {
+  text-decoration: none;
+  color: #2f80ed;
+  display: inline-block;
+}
+
+.header__link:hover {
+  transform: scale(1.2);
+  position: absolute;
+  left: 74px;
+}
