@@ -1,11 +1,9 @@
 .header__link {
   text-decoration: none;
   color: #2f80ed;
-  display: inline-block;
+  transition: opacity 1s linear;
 }
 
 .header__link:hover {
-  transform: scale(1.2);
-  position: absolute;
-  left: 74px;
+  opacity: 0.5;
 }
